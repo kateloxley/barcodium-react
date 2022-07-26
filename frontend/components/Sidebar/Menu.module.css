@@ -1,0 +1,10 @@
+.bm-button {
+    display: none;
+}
+
+.bm-menu {
+    overflow: hidden!important;
+    background: #fff;
+    height: 100%;
+    box-sizing: border-box;
+}
